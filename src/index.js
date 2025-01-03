@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   else if (Iphones) {
-    document.body.style.height = "85vh"
+    document.body.style.height = "95vh"
     result.style.transform = "translateY(-260px)"
   }
 
