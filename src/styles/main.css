@@ -12,9 +12,8 @@ body {
 @supports (-webkit-touch-callout: none) and (not(translate: none;)){
     body {
         background: url(/public/images/sunset2.jpg) no-repeat;
-        background-size: cover;
         background-position: center;
-        height: 95vh;
+        height: 100vh;
         overflow: hidden;
         display: flex;
         justify-content: center;
