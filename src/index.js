@@ -56,7 +56,7 @@ function Message1({ eyeClass }) {
           <label className="password" htmlFor="password">Password</label>
         </div>
         <div className='login_down'>
-          <button type='submit'>Login</button>
+          <button type='submit'><span>Login</span></button>
         </div>
       </form>
     </div>
